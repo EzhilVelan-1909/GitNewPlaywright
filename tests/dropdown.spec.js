@@ -86,4 +86,4 @@ test ('Validating Dropdown', async ({page})=> {
 
     await passWord.fill('Ezhil@123')
 
-    const confirmPassword = await page.locator('//input[@id="secondpassword"]')
+    const confirmPassword = await page.locator('//input[@id="secondpassword"]')})
