@@ -20,5 +20,5 @@ test('get started link', async ({ page }) => {
 
 
 
-test('Flipkart deal', async ({ page }) => {
-  await page.goto('https:/flipkart.com/');})
+test('Amazon link', async ({ page }) => {
+  await page.goto('https://amazon.in/');})
