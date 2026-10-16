@@ -1,0 +1,16 @@
+Sweden
+[ 'Cade1986IndiaBadminton19:4342.4%$3.22' ]
+Cade1986IndiaBadminton19:4342.4%$3.22
+[
+  '1986', '1991',
+  '2002', '1986',
+  '1998', '1986',
+  '2003', '1999',
+  '1984', '1986'
+]
+[
+  'Name',    'Year',
+  'Country', 'Sport',
+  'Time',    'Rate',
+  'Fee'
+]

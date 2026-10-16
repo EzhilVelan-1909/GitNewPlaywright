@@ -1,0 +1,3 @@
+The selected value is : Android
+The selected year is :  2000
+The selected month is :  September
